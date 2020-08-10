@@ -7,3 +7,5 @@
 - **task_3:** [Линейная регрессия: переобучение и регуляризация](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/task_3.ipynb)
 
 - **task_4:** [Сравнение метрик качества бинарной классификации](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/task_4.ipynb)
+
+- **task_5:** [Предобработка данных и логистическая регрессия для задачи бинарной классификации](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/task_5.ipynb)
