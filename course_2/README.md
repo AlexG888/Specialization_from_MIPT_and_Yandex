@@ -11,3 +11,5 @@
 - **task_5:** [Предобработка данных и логистическая регрессия для задачи бинарной классификации](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/task_5.ipynb)
 
 - **task_6:** [Бэггинг и случайный лес](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/task_6.ipynb)
+
+- **task_7:** [Градиентный бустинг своими руками](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/task_7.ipynb)
