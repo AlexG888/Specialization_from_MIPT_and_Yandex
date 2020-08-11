@@ -13,3 +13,5 @@
 - **task_6:** [Бэггинг и случайный лес](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/task_6.ipynb)
 
 - **task_7:** [Градиентный бустинг своими руками](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/task_7.ipynb)
+
+- **task_8:** [Нейронные сети: зависимость ошибки и обучающей способности от числа нейронов](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/task_8.ipynb)
