@@ -19,3 +19,7 @@
 - **task_9:** [Выбор семейства распределений в наивном байесе](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/task_9.ipynb)
 
 - **task_10:** [1NN против RandomForest](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/task_10.ipynb)
+
+[Конспект лекций](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/lecture_notes.pdf)
+
+[Список рекомендованной литературы](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_2/%20Recommended_reading_list.md)
