@@ -13,3 +13,5 @@
 - **task_6:** [Центральная предельная теорема своими руками](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_1/task_6.ipynb)
 
 - [Конспект лекций](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_1/lecture_notes.pdf)
+
+- [Список рекомендованной литературы](https://github.com/AlexG888/Specialization_from_MIPT_and_Yandex/blob/master/course_1/Recommended_reading_list.md)
